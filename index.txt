@@ -1,0 +1,12 @@
+<html>
+<head>
+
+<title>welcome</title>
+
+
+
+</head>
+<body background="/home/ka/text.html/whlte_00007.jpg">
+<h1>テストに制作</h1>
+</body>
+</html>
